@@ -17,7 +17,7 @@ MySQL and Sequelize packages to connect to Express.js API and a MySQL database, 
 ## Usage
 
 Follow this link to clone the repo https://github.com/uanq2/E-Commerce-Back-end.git
-Here is a link to a walkthrough video
+Here is a link to a walk-through video https://drive.google.com/file/d/1pmj_cXXmbgnhEUbQ3DUPQ8ai1_GwYubL/view?usp=sharing
 
 ## License
 
